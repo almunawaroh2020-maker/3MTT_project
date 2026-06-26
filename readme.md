@@ -166,7 +166,7 @@ Potential enhancements to this project include:
 
 ## Author
 
-**Moshood Abeeb/chatGPT**
+**Moshood Abeeb**
 
 ---
 

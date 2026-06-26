@@ -1,0 +1,8 @@
+io  
+ipywidgets
+pandas
+numpy 
+matplotlib
+seaborn 
+statsmodels
+scipy 
